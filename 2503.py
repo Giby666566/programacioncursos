@@ -29,6 +29,8 @@ def factorial(n):
 #list()
 #bool()
 #...
+resultado=input("Dame una edad")
+resultado=int(resultado)
 
 print(sumatoriareciproca(2,5))
 print(factorial(5))
