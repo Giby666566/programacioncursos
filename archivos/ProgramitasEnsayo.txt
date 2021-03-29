@@ -1,0 +1,6 @@
+1. Escribir un programa que lea una archivo de textos y que imprima su contenido en la salida estandar.
+2. Escribir un prgrama que lea las primeras N lineas de un archivo e imprimirlas
+3. Escribir un programa que lea linea por linea de un archivo y que las guarde en una lista
+4. Escribir un programa que lea un archivo de textos y que te imprima la PALABRA mas larga de ese archivo y su tamano
+5. Escribir un programa que te cuente la cantidad de lineas de un archivo txt 
+6. Escribir un programa que te lea un archivo binario y que te imprima su tamaño EN BYTES
